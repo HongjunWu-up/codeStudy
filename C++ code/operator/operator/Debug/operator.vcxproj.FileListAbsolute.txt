@@ -1,0 +1,2 @@
+E:\job\C++ code\operator\operator\Debug\operator.exe
+E:\job\C++ code\operator\operator\Debug\operator.pdb

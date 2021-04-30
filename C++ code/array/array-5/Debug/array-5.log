@@ -1,0 +1,8 @@
+﻿  源.cpp
+E:\job\C++\C++ code\array\array-5\源.cpp(62,26): warning C4477: “sscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+E:\job\C++\C++ code\array\array-5\源.cpp(62,26): warning C4473: “sscanf_s”: 没有为格式字符串传递足够的参数
+E:\job\C++\C++ code\array\array-5\源.cpp(62,26): message : 占位符和其参数预计 4 可变参数，但提供的却是 3 参数
+E:\job\C++\C++ code\array\array-5\源.cpp(62,26): message : 缺失的可变参数 4 为格式字符串“%d”所需
+E:\job\C++\C++ code\array\array-5\源.cpp(60,7): warning C4101: “input_information”: 未引用的局部变量
+源.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  array-5.vcxproj -> E:\job\C++\C++ code\array\array-5\Debug\array-5.exe

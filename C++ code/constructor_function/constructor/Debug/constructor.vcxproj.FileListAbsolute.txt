@@ -1,0 +1,2 @@
+E:\job\C++\C++ code\constructor_function\constructor\Debug\constructor.exe
+E:\job\C++\C++ code\constructor_function\constructor\Debug\constructor.pdb
