@@ -294,7 +294,7 @@ int main()
 	for (int i = 0; i < n; ++i)
 	{
 		pShapes[i]->printInfo();
-		delete pShapes[i];
+		delete pShapes[i]; //”–Œ Ã‚
 	}
 	/*delete[]pShapes;*/
 	return 0;
